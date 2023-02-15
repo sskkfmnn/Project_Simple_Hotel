@@ -1,0 +1,75 @@
+@media only screen and (max-width: 600px) {
+
+
+/* HEADER */
+/* HEADER */
+
+
+header article a{
+    padding: 20px;
+}
+
+
+/* MAIN */
+/* MAIN */
+
+
+.article1_main h1{
+    font-size: 45px;
+}
+
+#section2_main img{
+    padding: 20px;
+}
+
+#section3_main h4{
+    font-size: 15px;
+}
+
+.div1_main a{
+    margin-left: 50px;
+}
+
+.div2_main a{
+    margin-left: 50px;
+}
+
+.div3_main a{
+    margin-left: 50px;
+}
+
+.div4_main a{
+    margin-left: 50px;
+}
+
+
+/* FOOTER */
+/* FOOTER */
+
+
+#section1_footer{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.article1_footer{
+    padding-right: 50px;
+}
+
+.article1_footer p{
+    font-size: 12px;
+}
+
+.article2_footer a{
+    font-size: 12px;
+}
+
+.article3_footer{
+    padding-left: 70px;
+}
+
+.article3_footer p{
+    font-size: 15px;
+}
+
+}
