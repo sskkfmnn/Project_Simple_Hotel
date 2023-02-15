@@ -1,0 +1,283 @@
+/* colors: #DFAA5B */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face{
+    font-family:"Ubuntu";
+    src: url("../fonts/Ubuntu-Regular.ttf");
+}
+
+/* HEADER */
+/* HEADER */
+
+
+header section{
+    text-align: center;
+    padding: 10vh 0 15vh 0;
+}
+
+header article{
+    text-align: center;
+    font-family: "Ubuntu";
+    padding-bottom: 20vh;  
+}
+
+header article a{
+    padding: 50px;
+    color: #dfaa5b;
+    text-decoration: none;
+}
+
+
+/* MAIN */
+/* MAIN */
+
+
+#section1_main{
+    background-image: url("../img/background_image.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: "Ubuntu";
+    color: white;
+    margin-bottom: 5vh;
+}
+
+.article1_main{
+    text-align: center;
+}
+
+.article1_main h1{
+    margin: auto;
+    padding-top: 30vh;
+    padding-bottom: 5vh;
+    font-size: 60px;
+}
+
+.article1_main p{
+    letter-spacing: 1px;
+    margin: auto;
+    padding-bottom: 15vh;
+}
+
+.article2_main{
+    text-align: center;
+}
+
+.article2_main a{
+    color: white;
+    text-decoration: none;
+    background-color: #dfaa5b;
+    padding: 15px 140px;
+    border: #dfaa5b solid 2px;
+    border-radius: 2px;
+}
+
+.article3_main{
+    color: #dfaa5b;
+    text-align: center;
+    font-family: "Ubuntu";
+    margin-bottom: 10vh;
+}
+
+.article3_main h3{
+    font-size: 40px;
+}
+
+#section2_main{
+    text-align: center;
+    margin-bottom: 20vh;
+}
+
+#section2_main img{
+    padding: 50px;
+}
+
+.article4_main{
+    color: #dfaa5b;
+    text-align: center;
+    font-family: "Ubuntu";
+    margin-bottom: 5vh;
+}
+
+.article4_main h3{
+    font-size: 40px;
+}
+
+#section3_main{
+    font-family: "Ubuntu";
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 30vh ;
+}
+
+#section3_main h4{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 40vh;
+    padding-bottom: 5vh;
+}
+
+#section3_main div{
+    width: 40vw;
+    height: 60vh;
+}
+
+.div1_main{
+    background-image: url("../img/standard_twin_room_1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div1_main a{
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+    background-color: #dfaa5b;
+    border: #dfaa5b solid 2px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.div2_main{
+    background-image: url("../img/standard_room_2.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div2_main a{
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+    background-color: #dfaa5b;
+    border: #dfaa5b solid 2px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.div3_main{
+    background-image: url("../img/standard_view_room_3.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div3_main a{
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+    background-color: #dfaa5b;
+    border: #dfaa5b solid 2px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.div4_main{
+    background-image: url("../img/deluxe_room_3.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div4_main a{
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+    background-color: #dfaa5b;
+    border: #dfaa5b solid 2px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+#section4_main{
+    font-family: "Ubuntu";
+    color: #dfaa5b;
+    text-align: center;
+}
+
+#section4_main h3{
+    margin-bottom: 5vh;
+    font-size: 40px;
+}
+
+.article6_main{
+    margin-bottom: 30vh;
+}
+
+.article6_main a{
+    color: white;
+    text-decoration: none;
+    background-color: #dfaa5b;
+    padding: 15px 140px;
+    border: #dfaa5b solid 2px;
+    border-radius: 2px;
+}
+
+
+/* FOOTER */
+/* FOOTER */
+
+
+#section1_footer{
+    background-color: black;
+    color: white;
+    font-family: "Ubuntu";
+    word-spacing: 1px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20vh;
+    padding-bottom: 30vh;
+}
+
+.article1_footer{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+.article1_footer p{
+    padding-left: 20px;
+}
+
+.article2_footer{
+    display: flex;
+    flex-direction: column;
+}
+
+.article2_footer a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.article3_footer p{
+    font-size: 20px;
+    margin-bottom: 2vh;
+}
+
+.form1_footer{
+    padding-right: 20vw;
+}
+
+.input1_footer{
+    padding: 10px 50px 10px 0;
+    border-radius: 5px;
+    margin-bottom: 2vh;
+}
+
+.input2_footer{
+    padding: 10px 100px 10px 0;
+    border-radius: 5px;
+    background-color: #dfaa5b;
+    color: white;
+}
