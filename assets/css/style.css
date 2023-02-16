@@ -141,7 +141,7 @@ header article a{
 .div1_main a{
     color: white;
     text-decoration: none;
-    margin-left: 150px;
+    margin-left: 175px;
     background-color: #dfaa5b;
     border: #dfaa5b solid 2px;
     border-radius: 5px;
@@ -158,7 +158,7 @@ header article a{
 .div2_main a{
     color: white;
     text-decoration: none;
-    margin-left: 150px;
+    margin-left: 175px;
     background-color: #dfaa5b;
     border: #dfaa5b solid 2px;
     border-radius: 5px;
@@ -175,7 +175,7 @@ header article a{
 .div3_main a{
     color: white;
     text-decoration: none;
-    margin-left: 150px;
+    margin-left: 175px;
     background-color: #dfaa5b;
     border: #dfaa5b solid 2px;
     border-radius: 5px;
@@ -192,7 +192,7 @@ header article a{
 .div4_main a{
     color: white;
     text-decoration: none;
-    margin-left: 150px;
+    margin-left: 175px;
     background-color: #dfaa5b;
     border: #dfaa5b solid 2px;
     border-radius: 5px;
@@ -242,7 +242,7 @@ header article a{
 .article1_footer{
     display: flex;
     flex-direction: column;
-    padding-left: 20px;
+    padding-left: 100px;
 }
 
 .article1_footer p{
